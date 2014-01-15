@@ -36,4 +36,9 @@ body {
 .project p {
   text-align: center;
   font-variant: small-caps;
+  margin: 5px 0;
+}
+
+.project a.thumbnail {
+  padding: 0;
 }
